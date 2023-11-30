@@ -19,8 +19,7 @@ rules and can also be configured to apply custom rules.
 
 Minder can be deployed as a Helm chart and provides a CLI tool ‘minder’. Stacklok, the company behind Minder, also
 provides a free-to-use hosted version of Minder (for public repositories only). Minder is designed to be extensible,
-allowing users to integrate with their existing tooling and processes.
-
+allowing users to integrate with their existing tooling
 ## Features
 
 * **Repo configuration and security:** Simplify configuration and management of security settings and policies across repos.
