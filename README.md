@@ -6,7 +6,7 @@
 [Installation](https://minder-docs.stacklok.dev/getting_started/install_cli) | [Documentation](https://minder-docs.stacklok.dev) | [Discussions](https://github.com/stacklok/minder/discussions) | [Releases](https://github.com/stacklok/minder/releases)
 ---
 
-# What is Minder?
+# What is Minder
 
 Minder by [Stacklok](https://stacklok.com/) is an open source platform that helps development teams and open source communities build more
 secure software, and prove to others that what they’ve built is secure. Minder helps project owners proactively manage
