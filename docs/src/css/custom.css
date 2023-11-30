@@ -24,11 +24,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 :root {
-  --ifm-font-family-base: 'Roboto';  
+  --ifm-font-family-base: 'Roboto';
   --ifm-font-size-base: 15px;
   --ifm-code-font-size: 95%;
   --ifm-navbar-background-color: #303846;
-  --ifm-navbar-link-color: lightgray  ;
+  --ifm-navbar-link-color: lightgray;
   --ifm-navbar-link-hover-color: white;
 }
 
@@ -61,7 +61,7 @@
 }
 
 [data-theme='light'] {
-  --ifm-font-family-base: 'Roboto';  
+  --ifm-font-family-base: 'Roboto';
   --ifm-font-size-base: 15px;
   --ifm-color-primary: black;
 }
@@ -85,6 +85,7 @@
 [data-theme='light'] .clean-btn {
   color: lightgray;
 }
+
 [data-theme='light'] .clean-btn:hover {
   background-color: #202020;
 }
