@@ -10,30 +10,7 @@
 
 Minder by [Stacklok](https://stacklok.com/) is an open source platform that helps development teams and open source communities build more
 secure software, and prove to others that what they’ve built is secure. Minder helps project owners proactively manage
-their security posture by providing a set of checks and policies to minimize risk along the software supply chain,
-and attest their security practices to downstream consumers.
-
-Minder allows users to enroll repositories and define policy to ensure repositories and artifacts are configured
-consistently and securely. Policies can be set to alert only or auto-remediate. Minder provides a predefined set of
-rules and can also be configured to apply custom rules.
-
-Minder can be deployed as a Helm chart and provides a CLI tool ‘minder’. Stacklok, the company behind Minder, also
-provides a free-to-use hosted version of Minder (for public repositories only). Minder is designed to be extensible,
-allowing users to integrate with their existing tooling and processes.
-
-## Features
-
-* **Repo configuration and security:** Simplify configuration and management of security settings and policies across repos.
-* **Proactive security enforcement:** Continuously enforce best practice security configurations by setting granular policies to alert only or auto-remediate.
-* **Artifact attestation:** Continuously verify that packages are signed to ensure they’re tamper-proof, using the open source project Sigstore.
-* **Dependency management:** Manage dependency security posture by helping developers make better choices and enforcing controls. Minder is integrated with [Trusty by Stacklok](https://trustypkg.dev) to enable policy-driven dependency management based on the risk level of dependencies.
-
-## Public instance
-
-Your friends at Stacklok have set up a public instance of Minder that you can use for free. The Minder CLI tool
-(`minder`) from our official releases is configured to use this instance by default. Follow Stacklok's Minder [Getting Started Guide](https://docs.stacklok.com/minder/getting_started/install_cli) to quickly try out Minder's features without having to build and deploy OSS Monder. 
-
-Note that it's not possible to register private repositories. If you'd like to use Minder with private repositories,
+their security posture by providing a seate repositories,
 feel free to [contact us](mailto:hello@stacklok.com)! We'd be thrilled to help you out.
 
 ---
