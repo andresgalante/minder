@@ -21,12 +21,7 @@ Minder can be deployed as a Helm chart and provides a CLI tool ‘minder’. Sta
 provides a free-to-use hosted version of Minder (for public repositories only). Minder is designed to be extensible,
 allowing users to integrate with their existing tooling and processes.
 
-## Features
-
-* **Repo configuration and security:** Simplify configuration and management of security settings and policies across repos.
-* **Proactive security enforcement:** Continuously enforce best practice security configurations by setting granular policies to alert only or auto-remediate.
-* **Artifact attestation:** Continuously verify that packages are signed to ensure they’re tamper-proof, using the open source project Sigstore.
-* **Dependency management:** Manage dependency security posture by helping developers make better choices and enforcing controls. Minder is integrated with [Trusty by Stacklok](https://trustypkg.dev) to enable policy-driven dependency management based on the risk level of dependencies.
+## Featuresontrols. Minder is integrated with [Trusty by Stacklok](https://trustypkg.dev) to enable policy-driven dependency management based on the risk level of dependencies.
 
 ## Public instance
 
