@@ -15,8 +15,7 @@ and attest their security practices to downstream consumers.
 
 Minder allows users to enroll repositories and define policy to ensure repositories and artifacts are configured
 consistently and securely. Policies can be set to alert only or auto-remediate. Minder provides a predefined set of
-rules and can also be configured to apply custom rules.
-
+rules and can also be configured to apply custom rule
 Minder can be deployed as a Helm chart and provides a CLI tool ‘minder’. Stacklok, the company behind Minder, also
 provides a free-to-use hosted version of Minder (for public repositories only). Minder is designed to be extensible,
 allowing users to integrate with their existing tooling and processes.
