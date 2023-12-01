@@ -9,15 +9,7 @@
 # What is Minder?
 
 Minder by [Stacklok](https://stacklok.com/) is an open source platform that helps development teams and open source communities build more
-secure software, and prove to others that what they’ve built is secure. Minder helps project owners proactively manage
-their security posture by providing a set of checks and policies to minimize risk along the software supply chain,
-and attest their security practices to downstream consumers.
-
-Minder allows users to enroll repositories and define policy to ensure repositories and artifacts are configured
-consistently and securely. Policies can be set to alert only or auto-remediate. Minder provides a predefined set of
-rules and can also be configured to apply custom rules.
-
-Minder can be deployed as a Helm chart and provides a CLI tool ‘minder’. Stacklok, the company behind Minder, also
+secure software, and prove to otherscompany behind Minder, also
 provides a free-to-use hosted version of Minder (for public repositories only). Minder is designed to be extensible,
 allowing users to integrate with their existing tooling and processes.
 
